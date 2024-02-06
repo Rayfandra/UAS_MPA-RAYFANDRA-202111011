@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152185565037",
+    "project_id": "latihan-firebase-2f95a",
+    "storage_bucket": "latihan-firebase-2f95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152185565037:android:2892779848ebd7eb183464",
+        "android_client_info": {
+          "package_name": "com.devano.login_register_dan_logout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152185565037-f7u95g0pibatg0jj6bm4jj5ts44eqnmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLsNcF1D8w4DDN55FLHmlrlPZOsvG6U8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152185565037-f7u95g0pibatg0jj6bm4jj5ts44eqnmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
